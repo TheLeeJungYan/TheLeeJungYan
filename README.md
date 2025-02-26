@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Lee Jung Yan, a Full Stack Software Engineer</h1>
+<h1>👋 Hi, I'm Lee Jung Yan, Full Stack Software Engineer</h1>
 
 🌐 Currently working on my **[website portfolio](https://www.tobiasmeyhoefer.de)** to showcase my projects and experience.  
 👨🏼‍💻 Working as a **software engineer since 2023**, building scalable and efficient solutions.  
