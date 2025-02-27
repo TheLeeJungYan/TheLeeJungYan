@@ -56,6 +56,8 @@
   <img width="2" />
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/codeigniter/codeigniter-plain-wordmark.svg" height="40" alt="codeigniter logo"  />
   <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original.svg" height="40" alt="mongodb logo"  />
+  <img width="2" />
 </div>
 <br>
 <sup>Mobile App Development</sup>
