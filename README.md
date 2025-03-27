@@ -1,8 +1,8 @@
 <h1>👋 Hi, I'm Lee Jung Yan, Full Stack Software Engineer</h1>
 
-🌐 Currently working on my **[website portfolio](https://www.tobiasmeyhoefer.de)** to showcase my projects and experience.  
+🌐 Currently working on my **[website portfolio](https://www.aa.de)** to showcase my projects and experience.  
 👨🏼‍💻 Working as a **software engineer since 2023**, building scalable and efficient solutions.  
-🚀 Passionate about **exploring DevOps, AI, and embedded systems**, with a growing interest in **IoT and software-hardware integration**.  
+🚀 Passionate about **exploring DevOps, AI, and Robotics**, with a growing interest in **IoT and software-hardware integration**.  
 
 <h2>🛠️ Tech Stack & Tools</h2>
 <sup>Programming Languages</sup>
